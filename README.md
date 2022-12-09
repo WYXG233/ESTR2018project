@@ -1,9 +1,9 @@
 # ESTR 2018 Group Project: Random Walk
 This is our ESTR 2018 group project's code, which mainly focuses on achieving particle random movement visualization.
 ## Intro
-Random Walk, means a particle moves randomly each time. So, when a particle moves on a line as the professor mentioned in the first lecture, it’s a 1-dimension case. If we expand the question. When it comes to 2 or 3 dimensions, which means the particle can move in more directions, this question will be more interesting and complex.
+Random Walk means a particle moves in a random direction along the axes 1 unit each time. We call the scenario that a particle moves on a line which is mentioned in the lecture1 as 1-dimension case. What's more, we try to consider more complex scenario and this program is attempted to show how 2-D or 3-D random walk works.
 
-In this project, let X be a random variable which represents the distance from the original point after n steps. We have successfully calculated the laws for the discrete motion of this particle in the one-dimensional case and envisaged the possibility of a one-dimensional, continuously moving particle. This is even though we lack sufficient mathematical knowledge to complete the subsequent derivation. In the two-dimensional case, we give a formula for the discrete motion.
+In this project, let X be a random variable which represents the distance from the original point after n steps. We have successfully calculated the laws for the discrete motion of this particle in the one-dimensional case and envisaged the possibility of a one-dimensional, continuously moving particle. Even though the lack of advanced mathematics knowledge makes the continuous 2-D random walk hard to explain generally, we still give the solution to general situation of 2-D discrete random walk.
 
 You can find the code we used for this project in this repository, including visualizations of the discrete motion of the particle in 1, 2, and 3 dimensions, visualizations of the random directional movement of the particle in two dimensions, and fitting the results of our calculations.
 
