@@ -1,7 +1,7 @@
 # ESTR 2018 Group Project: Random Walk
 This is our ESTR 2018 group project's code, which mainly focuses on achieving particle random movement visualization.
 ## Intro
-Random Walk, means a particle moves 1 unit in a random direction each time. Each direction has the same probability. So, when a particle moves on a line as the professor mentioned in the first lecture, it’s a 1-dimension case. If we expand the question. When it comes to 2 or 3 dimensions, which means the particle can move in more directions, this question will be more interesting and complex.
+Random Walk, means a particle moves randomly each time. So, when a particle moves on a line as the professor mentioned in the first lecture, it’s a 1-dimension case. If we expand the question. When it comes to 2 or 3 dimensions, which means the particle can move in more directions, this question will be more interesting and complex.
 
 In this project, let X be a random variable which represents the distance from the original point after n steps. We have successfully calculated the laws for the discrete motion of this particle in the one-dimensional case and envisaged the possibility of a one-dimensional, continuously moving particle. This is even though we lack sufficient mathematical knowledge to complete the subsequent derivation. In the two-dimensional case, we give a formula for the discrete motion.
 
